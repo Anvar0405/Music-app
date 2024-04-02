@@ -1,0 +1,11 @@
+{
+  "name": "musicapp",
+  "version": "1.0.0",
+  "description": "tab to create music",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anvar",
+  "license": "ISC"
+}
